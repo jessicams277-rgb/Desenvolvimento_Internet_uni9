@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Atividades Jessi\\Checkpoint_1\\Checkpoint_1.csproj": {}
+    "D:\\Dev\\Desenvolvimento_Internet_uni9\\Checkpoint_1\\Checkpoint_1.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Atividades Jessi\\Checkpoint_1\\Checkpoint_1.csproj": {
+    "D:\\Dev\\Desenvolvimento_Internet_uni9\\Checkpoint_1\\Checkpoint_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Atividades Jessi\\Checkpoint_1\\Checkpoint_1.csproj",
+        "projectUniqueName": "D:\\Dev\\Desenvolvimento_Internet_uni9\\Checkpoint_1\\Checkpoint_1.csproj",
         "projectName": "Checkpoint_1",
-        "projectPath": "C:\\Dev\\Atividades Jessi\\Checkpoint_1\\Checkpoint_1.csproj",
-        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Atividades Jessi\\Checkpoint_1\\obj\\",
+        "projectPath": "D:\\Dev\\Desenvolvimento_Internet_uni9\\Checkpoint_1\\Checkpoint_1.csproj",
+        "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Desenvolvimento_Internet_uni9\\Checkpoint_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
